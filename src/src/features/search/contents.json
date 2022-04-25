@@ -1,0 +1,17 @@
+[
+  {
+    "title": "ankora Software Cypress tutorial",
+    "details": "Aliquam tellus tellus, facilisis et commodo non, bibendum at nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "slug": "cypress"
+  },
+  {
+    "title": "ankora Software CI/CD tutorial",
+    "details": "Maecenas eu lacus eros. Integer quam ipsum, consectetur efficitur sapien a, sagittis condimentum eros. Nam iaculis velit ac malesuada molestie.",
+    "slug": "cicd"
+  },
+  {
+    "title": "Microfrontends by Pavao",
+    "details": "Maecenas eu lacus eros. Integer quam ipsum, consectetur efficitur sapien a, sagittis condimentum eros. Nam iaculis velit ac malesuada molestie.",
+    "slug": "microfrontends"
+  }
+]

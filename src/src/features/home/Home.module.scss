@@ -1,0 +1,19 @@
+.paragraph {
+  text-align: justify;
+}
+
+.item {
+  display: block;
+  max-width: 600px;
+
+  &:after {
+    content: '';
+    clear: both;
+    display: block;
+  }
+}
+.image {
+  float: left;
+  max-width: 150px;
+  margin: 0 16px 16px 0;
+}

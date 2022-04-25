@@ -1,0 +1,29 @@
+.wrapper {
+  padding: 24px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid #ccc;
+}
+.title {
+  margin: 0;
+}
+.paragraph {margin: 0 0 16px 0;}
+.link {
+  height: 50px;
+  border-radius: 15px;
+  width: 160px;
+  border: none;
+  background: #232340;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+
+  &:hover {
+    background: #FF6710;
+    color: #232340;
+  }
+}
